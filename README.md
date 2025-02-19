@@ -1,17 +1,23 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=22&pause=1000&color=FF7F00&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+I'm+Mehmet+Aydınoğlu+!;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=22&pause=1000&color=FF7F00&center=true&vCenter=true&repeat=false&width=435&lines=Mehmet+Aydınoğlu+!;" alt="Typing SVG" />
     </a>
 </div>
 
 
-<h3 align="center">42 STUDENTS</h3>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=22&pause=1000&color=FF7F00&center=true&vCenter=true&repeat=false&width=435&lines=42+STUDENTS+!;" alt="Typing SVG" />
+    </a>
+</div>
+
 
 <div align="center">
     <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm">
-        <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0032.gif" border="0" alt="animated-dividing-line-image-0032" />
+        <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0126.gif" border="0" alt="animated-dividing-line-image-0126" />
     </a>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,3 +30,10 @@
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=meaydino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+<div align="center">
+    <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm">
+        <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0032.gif" border="0" alt="animated-dividing-line-image-0032" />
+    </a>
+</div>
