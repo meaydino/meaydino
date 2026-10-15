@@ -1,9 +1,18 @@
 <div align="center">
 
-  <!-- Hızlı & Optimize Edilmiş Typing SVG -->
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=)👋+Hey,+I'm+Mehmet;🚀+42+Network+Student;⚡+Turning+Coffee+into+C+Code;🎯+Norminette+Survivor" alt="Typing SVG" />
+  # 👋 Hi, I'm Mehmet!
+  ### 🚀 42 Network Student & Low-Level / Systems Developer
+
+  <br/>
+
+  <a href="https://instagram.com/mehmetwayd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/meaydino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Norminette-OK%20%E2%9C%93-brightgreen?style=for-the-badge" alt="Norminette OK"/>
+  <img src="https://img.shields.io/badge/Valgrind-0%20Leaks-blue?style=for-the-badge" alt="Valgrind Clean"/>
 
 </div>
 
@@ -20,7 +29,7 @@
 ▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
 █▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
 ▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~ⓖ,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
 █▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
 ██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════        ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
 ████▄▀█▌║███  ████████▌          ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
