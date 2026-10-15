@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Eğlenceli Başlık -->
+  <!-- Hızlı & Optimize Edilmiş Typing SVG -->
   <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=)👋+Hey,+I'm+Mehmet;🚀+42+Network+Student;⚡+Turning+Coffee+into+C+Code;🎯+Norminette+Survivor" alt="Typing SVG" />
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=)👋+Hey,+I'm+Mehmet;🚀+42+Network+Student;⚡+Turning+Coffee+into+C+Code;🎯+Norminette+Survivor" alt="Typing SVG" />
   </a>
 
 </div>
@@ -20,7 +20,7 @@
 ▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
 █▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
 ▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~ⓖ,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
 █▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
 ██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════        ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
 ████▄▀█▌║███  ████████▌          ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
