@@ -1,7 +1,7 @@
 <div align="center">
 
   # 👋 Hi, I'm Mehmet!
-  ### 🚀 42 Network Student & Low-Level / Systems Developer
+  ### 🚀 42 Network Student & Systems Developer
 
   <br/>
 
