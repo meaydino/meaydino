@@ -39,3 +39,23 @@
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌        ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-      ▀▀▀▀▀▀▀▀▀▀        '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+#include <stdio.h>
+
+typedef struct s_developer {
+    char    *name;
+    char    *school;
+    char    *passions[3];
+    char    *current_focus;
+}   t_developer;
+
+int main(void) {
+    t_developer me = {
+        .name = "Mehmet",
+        .school = "42 School",
+        .passions = {"C / C++", "System Programming", "Unix & Linux"},
+        .current_focus = "Algorithms, Memory Management & Containerization"
+    };
+
+    printf("Welcome! Building efficient, clean and leak-free software.\n");
+    return (0);
+}
