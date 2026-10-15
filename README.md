@@ -1,34 +1,34 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=22&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=435&lines=42+STUDENTS+!;" alt="Typing SVG" />
-    </a>
+
+  <!-- Typing Effect Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Mehmet;🚀+42+Network+Student;💡+C+|+Linux+|+System+Programming;✨+Building+efficient+software" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Social Links & Badges -->
+  <a href="https://instagram.com/mehmetwayd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/meaydino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
 </div>
 
+---
 
-<div align="center">
-    <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm">
-        <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0126.gif" border="0" alt="animated-dividing-line-image-0126" />
-    </a>
-</div>
+### 👨‍💻 About Me
 
+```c
+#include <stdio.h>
 
+int main(void) {
+    char *school = "42 School";
+    char *status = "Student & Developer";
+    char *passions[] = {"Low-level Programming", "System Architecture", "Linux"};
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mehmetwayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetwayd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=meaydino&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-<div align="center">
-    <a href="https://www.animatedimages.org/cat-dividing-lines-134.htm">
-        <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0032.gif" border="0" alt="animated-dividing-line-image-0032" />
-    </a>
-</div>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHAwNGM0N2dxcDBhbzYxaTl0bmIxcjQ4Y3F0MGNhNGlxZGh4eTgwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Bbl0U61TN6DK/giphy.gif" alt="My Animated GIF">
+    printf("Welcome to my GitHub profile!\n");
+    return (0);
+}
