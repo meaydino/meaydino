@@ -7,8 +7,8 @@
 
   <br/><br/>
 
-  <!-- Ana Görsel (Yukarıdaki 42 görselini repona 'banner.jpg' olarak ekleyip bu adresi güncelleyebilirsin) -->
-  <img src="banner.jpg" alt="42 Lab" width="100%" style="border-radius: 10px;"/>
+
+<img src="https://raw.githubusercontent.com/meaydino/meaydino/main/banner.jpg" alt="42 Lab" width="100%" style="border-radius: 10px;"/>
 
   <br/><br/>
 
