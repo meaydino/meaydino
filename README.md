@@ -7,12 +7,12 @@
 
   <br/><br/>
 
-
-<img src="https://raw.githubusercontent.com/meaydino/meaydino/main/banner.jpg" alt="42 Lab" width="100%" style="border-radius: 10px;"/>
+  <!-- Ana Görsel -->
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" alt="Coding Workspace" width="100%" />
 
   <br/><br/>
 
-  <!-- Sosyal Medya & Eğlenceli Rozetler -->
+  <!-- Sosyal Medya & Rozetler -->
   <a href="https://instagram.com/mehmetwayd" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
